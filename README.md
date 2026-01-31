@@ -89,10 +89,10 @@ npm install
 cp .env.example .env
 
 # Edit .env with your values:
-# VITE_PACKAGE_ID=<your_deployed_package_id>
-# VITE_PINATA_API_KEY=4ee7eaf8eff6c0e9f7c9
-# VITE_PINATA_SECRET_KEY=8b8b9a51cc935719877ef28a2cc99fcc7980f5db9ce0cc6f7cb6183f4a5a19d3
-# VITE_GOOGLE_CLIENT_ID=532580398489-ea1p2ap0vf4d48ooq92lhtdl5ichqpp4.apps.googleusercontent.com
+# VITE_PACKAGE_ID= Classified *****
+# VITE_PINATA_API_KEY= Classified *****
+# VITE_PINATA_SECRET_KEY= Classified *****
+# VITE_GOOGLE_CLIENT_ID= Classified *****
 # etc.
 ```
 
